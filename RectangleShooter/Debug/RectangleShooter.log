@@ -1,0 +1,5 @@
+﻿  main.c
+A:\VS Projects\Begin End\BeginEnd\RectangleShooter\main.c(96,23): warning C4013: ObjectCollisison: нет определения; предполагается "extern" с возвратом типа "int"
+A:\VS Projects\Begin End\BeginEnd\RectangleShooter\main.c(283,43): warning C4133: функция: несовместимые типы - из "LPWSTR" в "LPCSTR"
+A:\VS Projects\Begin End\BeginEnd\RectangleShooter\main.c(275): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  RectangleShooter.vcxproj -> A:\VS Projects\Begin End\BeginEnd\Debug\RectangleShooter.exe
