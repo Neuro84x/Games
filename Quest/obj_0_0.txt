@@ -1,0 +1,16 @@
+Warehouse Owner
+N
+63
+11
+I need 5 apples
+Apple
+5
+Warehouse key
+Warehouse Door
+/
+52
+12
+to enter need Warehouse key
+Warehouse key
+1
+-

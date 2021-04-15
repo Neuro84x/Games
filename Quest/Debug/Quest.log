@@ -1,0 +1,3 @@
+﻿  main.c
+A:\VS Projects\Begin End\BeginEnd\Quest\main.c(110,16): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  Quest.vcxproj -> A:\VS Projects\Begin End\BeginEnd\Debug\Quest.exe
